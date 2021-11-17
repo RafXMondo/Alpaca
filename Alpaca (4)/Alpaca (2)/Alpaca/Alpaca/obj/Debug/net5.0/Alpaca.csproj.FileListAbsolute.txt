@@ -1,0 +1,32 @@
+C:\Users\rafae\source\repos\Alpaca\Alpaca\bin\Debug\net5.0\Alpaca.exe
+C:\Users\rafae\source\repos\Alpaca\Alpaca\bin\Debug\net5.0\Alpaca.deps.json
+C:\Users\rafae\source\repos\Alpaca\Alpaca\bin\Debug\net5.0\Alpaca.runtimeconfig.json
+C:\Users\rafae\source\repos\Alpaca\Alpaca\bin\Debug\net5.0\Alpaca.runtimeconfig.dev.json
+C:\Users\rafae\source\repos\Alpaca\Alpaca\bin\Debug\net5.0\Alpaca.dll
+C:\Users\rafae\source\repos\Alpaca\Alpaca\bin\Debug\net5.0\ref\Alpaca.dll
+C:\Users\rafae\source\repos\Alpaca\Alpaca\bin\Debug\net5.0\Alpaca.pdb
+C:\Users\rafae\source\repos\Alpaca\Alpaca\obj\Debug\net5.0\Alpaca.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\Alpaca\Alpaca\obj\Debug\net5.0\Alpaca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\source\repos\Alpaca\Alpaca\obj\Debug\net5.0\Alpaca.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\Alpaca\Alpaca\obj\Debug\net5.0\Alpaca.AssemblyInfo.cs
+C:\Users\rafae\source\repos\Alpaca\Alpaca\obj\Debug\net5.0\Alpaca.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Alpaca\Alpaca\obj\Debug\net5.0\Alpaca.dll
+C:\Users\rafae\source\repos\Alpaca\Alpaca\obj\Debug\net5.0\ref\Alpaca.dll
+C:\Users\rafae\source\repos\Alpaca\Alpaca\obj\Debug\net5.0\Alpaca.pdb
+C:\Users\rafae\source\repos\Alpaca\Alpaca\obj\Debug\net5.0\Alpaca.genruntimeconfig.cache
+C:\Users\tobin\OneDrive\Documents\BBB\Lernatelier\Alpaca (2)\Alpaca\Alpaca\bin\Debug\net5.0\Alpaca.exe
+C:\Users\tobin\OneDrive\Documents\BBB\Lernatelier\Alpaca (2)\Alpaca\Alpaca\bin\Debug\net5.0\Alpaca.deps.json
+C:\Users\tobin\OneDrive\Documents\BBB\Lernatelier\Alpaca (2)\Alpaca\Alpaca\bin\Debug\net5.0\Alpaca.runtimeconfig.json
+C:\Users\tobin\OneDrive\Documents\BBB\Lernatelier\Alpaca (2)\Alpaca\Alpaca\bin\Debug\net5.0\Alpaca.runtimeconfig.dev.json
+C:\Users\tobin\OneDrive\Documents\BBB\Lernatelier\Alpaca (2)\Alpaca\Alpaca\bin\Debug\net5.0\Alpaca.dll
+C:\Users\tobin\OneDrive\Documents\BBB\Lernatelier\Alpaca (2)\Alpaca\Alpaca\bin\Debug\net5.0\ref\Alpaca.dll
+C:\Users\tobin\OneDrive\Documents\BBB\Lernatelier\Alpaca (2)\Alpaca\Alpaca\bin\Debug\net5.0\Alpaca.pdb
+C:\Users\tobin\OneDrive\Documents\BBB\Lernatelier\Alpaca (2)\Alpaca\Alpaca\obj\Debug\net5.0\Alpaca.csproj.AssemblyReference.cache
+C:\Users\tobin\OneDrive\Documents\BBB\Lernatelier\Alpaca (2)\Alpaca\Alpaca\obj\Debug\net5.0\Alpaca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobin\OneDrive\Documents\BBB\Lernatelier\Alpaca (2)\Alpaca\Alpaca\obj\Debug\net5.0\Alpaca.AssemblyInfoInputs.cache
+C:\Users\tobin\OneDrive\Documents\BBB\Lernatelier\Alpaca (2)\Alpaca\Alpaca\obj\Debug\net5.0\Alpaca.AssemblyInfo.cs
+C:\Users\tobin\OneDrive\Documents\BBB\Lernatelier\Alpaca (2)\Alpaca\Alpaca\obj\Debug\net5.0\Alpaca.csproj.CoreCompileInputs.cache
+C:\Users\tobin\OneDrive\Documents\BBB\Lernatelier\Alpaca (2)\Alpaca\Alpaca\obj\Debug\net5.0\Alpaca.dll
+C:\Users\tobin\OneDrive\Documents\BBB\Lernatelier\Alpaca (2)\Alpaca\Alpaca\obj\Debug\net5.0\ref\Alpaca.dll
+C:\Users\tobin\OneDrive\Documents\BBB\Lernatelier\Alpaca (2)\Alpaca\Alpaca\obj\Debug\net5.0\Alpaca.pdb
+C:\Users\tobin\OneDrive\Documents\BBB\Lernatelier\Alpaca (2)\Alpaca\Alpaca\obj\Debug\net5.0\Alpaca.genruntimeconfig.cache
